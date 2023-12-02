@@ -1,0 +1,18 @@
+nav{
+    padding: 0 4.8rem;
+    height: 10rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(249 249 255);
+}
+.logo {
+    height: auto;
+    max-width: 30%;
+  }
+  .navbar-list{
+    display: flex;
+    font-size: 25px;
+    gap: 4.8rem;
+    text-transform: uppercase;
+  }
